@@ -5,7 +5,6 @@
    :maxdepth: -1
    :caption: Ivy
 
-   ivy/old.rst
    ivy/activations.rst
    ivy/compilation.rst
    ivy/constants.rst
@@ -13,9 +12,9 @@
    ivy/data_type.rst
    ivy/device.rst
    ivy/elementwise.rst
+   ivy/experimental.rst
    ivy/general.rst
    ivy/gradients.rst
-   ivy/image.rst
    ivy/layers.rst
    ivy/linear_algebra.rst
    ivy/losses.rst
